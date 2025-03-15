@@ -35,11 +35,11 @@
 
 ###
 
-<p align="left">- 💼 Atendente na Localiza&CO.<br>- 📚 Estudante no curso de Desenvolvimento de Sistmas no IFSC.<br>- 👨🏽‍💻Procuro oportunidades de Estágio ou vagas Júnior na área de T.I</p>
+<p align="left">- 💼 Atendente na Localiza&CO.<br>- 📚 Estudante no curso de Desenvolvimento de Sistmas no IFSC.<br>- 👨🏽‍💻Procuro oportunidades de Estágio ou vagas Júnior na área de T.I.</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas:</h3>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">🔥   Meus Status:</h3>
+<h3 align="left">🔥 Meus Status:</h3>
 
 ###
 
