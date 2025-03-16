@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 💼 Atendente na Localiza&CO.<br>- 📚 Estudante no curso de Desenvolvimento de Sistmas no IFSC.<br>- 👨🏽‍💻Procuro oportunidades de Estágio ou vagas Júnior na área de T.I.</p>
+<p align="left">- 💼 Atendente na Localiza&CO.<br>- 📚 Estudante no curso de Desenvolvimento de Sistemas no IFSC.<br>- 👨🏽‍💻Procuro oportunidades de Estágio ou vagas Júnior na área de T.I.</p>
 
 ###
 
