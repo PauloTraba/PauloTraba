@@ -1,0 +1,23 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Executa todo dia às 00:00 (UTC)
+    - cron: '0 0 * * *'
+  # Permite acionar manualmente na aba "Actions"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      # Passo 1: Baixa o repositório
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Passo 2: Gera as estatísticas e atualiza o README
+      - name: Update README
+        uses: AnandChowdhary/actions-profile-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token automático do GitHub
+          COMMIT_MSG: "📊 Atualiza estatísticas do GitHub"
